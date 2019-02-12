@@ -19,10 +19,10 @@
           }
         },
         "required": ["oid", "size"],
-        "additionalProperties": false
+        "additionalProperties": true
       }
     }
   },
   "required": ["objects", "operation"],
-  "additionalProperties": false
+  "additionalProperties": true
 }
